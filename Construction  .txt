@@ -1,0 +1,11 @@
+Now let me build a stunning website for Lanyo Construction!
+
+Your website is ready! 🚧🎉 Here's what's included:
+
+- **Hero section** with your company name, location (Akatsi, Volta Region), and call-to-action buttons
+- **6 Services** — General Construction, Roofing, Remodeling, Concrete, Masonry, and Site Planning
+- **Why Choose Us** section with 4 key strengths
+- **Contact section** with your phone number, email, address, and a working contact form
+- **Bold industrial design** in gold & black — perfect for a construction company
+
+To put it online for **free**, you can upload this HTML file to **Google Sites** or **Netlify** (drag & drop — no account needed at netlify.com). Would you like help with that?
